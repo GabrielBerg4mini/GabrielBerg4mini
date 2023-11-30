@@ -70,7 +70,7 @@ Tenho 20 anos e atualmente estou focado em me aprimorar na área de <strong>Dese
 <hr>
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/GabrielBerg4mini">
   <img width=''50% height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBerg4mini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width='50%' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBerg4mini&layout=compact&langs_count=7&theme=dark"/>
 </div>
