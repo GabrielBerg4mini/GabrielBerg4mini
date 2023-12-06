@@ -23,12 +23,12 @@ Tenho 20 anos e atualmente estou focado em me aprimorar na área de <strong>Dese
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-tailwindcss" height="40" width="40" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss">
-<img align="center" alt="Gabriel-nextjs" height="40" width="40" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs">
-<img align="center" alt="Gabriel-bootstrap" height="40" width="40" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap--v1">
-<img align="center" alt="Gabriel-styledcomponents" height="30" width="40" src="https://img.icons8.com/color/48/styled-components.png" alt="styled-components">
-<img align="center" alt="Gabriel-styledcomponents" width="40" height="40" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/>
-
+  <img align="center" alt="Gabriel-tailwindcss" height="40" width="40" src="https://img.icons8.com/color/48/tailwindcss.png" >
+<img align="center" alt="Gabriel-nextjs" height="40" width="40" src="https://img.icons8.com/color/48/nextjs.png" >
+<img align="center" alt="Gabriel-bootstrap" height="40" width="40" src="https://img.icons8.com/color/48/bootstrap--v1.png" >
+<img align="center" alt="Gabriel-styledcomponents" height="30" width="40" src="https://img.icons8.com/color/48/styled-components.png" >
+<img align="center" alt="Gabriel-wordpress" width="40" height="40" src="https://img.icons8.com/color/48/wordpress.png" />
+<img  align="center" alt="Gabriel-node" width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" />
 
 </p>
 
