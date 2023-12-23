@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Tenho 20 anos e atualmente estou focado em me aprimorar na área de <strong>Desenvolvimento Web</strong> , minha verdadeira paixão. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+Nasci em 2003 e atualmente estou focado em me aprimorar na área de <strong>Desenvolvimento Web</strong> , minha verdadeira paixão. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
   🚀 **Sobre Mim:**
 - Estudando apaixonadamente há desde 2022.
