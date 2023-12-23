@@ -7,7 +7,7 @@
 Tenho 20 anos e atualmente estou focado em me aprimorar na área de <strong>Desenvolvimento Web</strong> , minha verdadeira paixão. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
   🚀 **Sobre Mim:**
-- Estudando apaixonadamente há cerca de 1.5 anos.
+- Estudando apaixonadamente há desde 2022.
 - Comprometido em criar soluções incríveis e aprimorar a experiência do usuário.
 - Empolgado em contribuir para projetos desafiadores e aprender constantemente.
 </p>
