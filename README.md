@@ -14,7 +14,7 @@ Tenho 20 anos e atualmente estou focado em me aprimorar na área de <strong>Dese
 <p align="left">
   
 💼 **Projetos:**
-- Dê uma olhada nos meus projetos no [meu portifólio](seu-link-do-repositorio) 
+- Dê uma olhada nos meus projetos no [meu portifólio](https://gabrielbergamini-frontend.vercel.app/) 
 </p>
 <p align="left">
   🦄 <strong>Linguagens:</strong>
