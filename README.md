@@ -10,7 +10,7 @@ Currently working professionally with Angular, Ionic and Capacitor, developing S
 </p>
 
 <p align="left"> 
-  🚀 About Me
+  🚀 About Me </br>
   - Frontend Developer with 2 years of professional experience
   - Experience with Angular, Ionic and Capacitor for web and mobile applications
   - Development of SPAs with REST API integration
