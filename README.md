@@ -10,10 +10,6 @@ Currently working professionally with Angular, Ionic and Capacitor, developing S
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
 * Frontend Developer with 2 years of professional experience
 * Experience with Angular, Ionic and Capacitor for web and mobile applications
 * Development of SPAs with REST API integration
@@ -23,16 +19,6 @@ Currently working professionally with Angular, Ionic and Capacitor, developing S
 * Practical knowledge of deployment, SSH, FTP and hosting environments
 * Currently improving my React and Next.js skills
 
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="320px"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 💻 Tech Stack
@@ -40,23 +26,23 @@ Currently working professionally with Angular, Ionic and Capacitor, developing S
 ### Frontend
 
 <p align="left">
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>&nbsp;&nbsp;
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-<img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>  
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
-<img alt="Angular" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>  
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 
-<img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>  
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-<img alt="NextJS" height="40" src="https://img.icons8.com/color/48/nextjs.png"/>  
+  <img align="center" alt="NextJS" height="40" width="40" src="https://img.icons8.com/color/48/nextjs.png">
 
-<img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>  
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-<img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>  
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-<img alt="TailwindCSS" height="40" src="https://img.icons8.com/color/48/tailwindcss.png"/>  
+  <img align="center" alt="TailwindCSS" height="40" width="40" src="https://img.icons8.com/color/48/tailwindcss.png">
 
-  <img alt="Bootstrap" height="40" src="https://img.icons8.com/color/48/bootstrap--v1.png"/>
+  <img align="center" alt="Bootstrap" height="40" width="40" src="https://img.icons8.com/color/48/bootstrap--v1.png">
 </p>
 
 ---
@@ -64,9 +50,9 @@ Currently working professionally with Angular, Ionic and Capacitor, developing S
 ### Mobile
 
 <p align="left">
-  <img alt="Ionic" height="40" src="https://img.icons8.com/color/48/ionic.png"/>&nbsp;&nbsp;
+  <img align="center" alt="Ionic" height="40" width="40" src="https://img.icons8.com/color/48/ionic.png">
 
-  <img alt="Capacitor" height="40" src="https://img.icons8.com/color/48/source-code.png"/>
+  <img align="center" alt="Capacitor" height="40" width="40" src="https://img.icons8.com/color/48/source-code.png">
 </p>
 
 ---
@@ -74,10 +60,14 @@ Currently working professionally with Angular, Ionic and Capacitor, developing S
 ### CMS & Backend Integration
 
 <p align="left">
-  <img alt="WordPress" height="40" src="https://img.icons8.com/color/48/wordpress.png"/>&nbsp;&nbsp;
+  <img align="center" alt="WordPress" width="40" height="40" src="https://img.icons8.com/color/48/wordpress.png"/>
 
-  <img alt="NodeJS" height="40" src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img align="center" alt="NodeJS" width="40" height="40" src="https://img.icons8.com/color/48/nodejs.png"/>
 </p>
+
+* REST API integration
+* Authentication and HTTP communication
+* APIs built with PHP, Ruby and Python
 
 ---
 
