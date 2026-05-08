@@ -1,22 +1,28 @@
 
-# Prazer, sou o Gabriel👋, desenvolvedor Web!!
+# Hello, I'm Gabriel de Souza Bergamini 👋!!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Nasci em 2003 e atualmente estou focado em me aprimorar na área de <strong>Desenvolvimento Web</strong> , minha verdadeira paixão. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+Frontend Developer focused on building modern web and mobile applications with clean interfaces, responsive design and scalable architecture.
 
-  🚀 **Sobre Mim:**
-- Estudando apaixonadamente há desde 2022.
-- Comprometido em criar soluções incríveis e aprimorar a experiência do usuário.
-- Empolgado em contribuir para projetos desafiadores e aprender constantemente.
+Currently working professionally with Angular, Ionic and Capacitor, developing SPAs and hybrid mobile applications integrated with REST APIs. I also have experience with fully customized WordPress development, frontend architecture and deployment workflows.
 </p>
-<p align="left">
-💼 **Projetos:**
-- Dê uma olhada nos meus projetos no [meu portifólio](https://gabrielbergamini-frontend.vercel.app/) 
+
+<p align="left"> 
+  🚀 About Me
+  - Frontend Developer with 2 years of professional experience
+  - Experience with Angular, Ionic and Capacitor for web and mobile applications
+  - Development of SPAs with REST API integration
+  - Experience with custom WordPress themes (without page builders/plugins)
+  - Experience leading frontend tasks and supporting junior developers
+  - Focused on clean UI, responsive layouts and organized project structure
+  - Practical knowledge of deployment, SSH, FTP and hosting environments
+  - Currently improving my React and Next.js skills
 </p>
+
 <p align="left">
-  🦄 <strong>Linguagens:</strong>
+  🦄 <strong>Languages:</strong>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -35,7 +41,7 @@ Nasci em 2003 e atualmente estou focado em me aprimorar na área de <strong>Dese
   
   <img align='center' width="30" height="30" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/> - VSCode: Meu ambiente de desenvolvimento favorito.
 
-<img align='center' width="30" height="30" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> - Figma: Explorando design de UI/UX para aprimorar minhas habilidades.
+  <img align='center' width="30" height="30" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> - Figma: Explorando design de UI/UX para aprimorar minhas habilidades.
 </p>
 
 <p>
