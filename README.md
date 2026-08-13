@@ -10,7 +10,7 @@ Currently working professionally with Angular, Ionic and Capacitor, developing S
 <tr>
 <td width="60%" valign="top">
 
-- Frontend Developer with 2 years of professional experience  
+- Frontend Developer with 2.8 years of professional experience  
 - Experience with Angular, Ionic and Capacitor for web and mobile applications  
 - Development of SPAs with REST API integration  
 - Experience with custom WordPress themes (without page builders/plugins)  
